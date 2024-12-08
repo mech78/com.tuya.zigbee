@@ -800,6 +800,7 @@ Supported devices:
 
 - 2 Channel Relay Board
     _TZ3000_nuenzetq / TS0002
+    _TZ3000_ruldv5dt / TS0002
 
 - 4 Channel Relay Board
     _TZ3000_hdlpifbk / TS0004
